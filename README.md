@@ -6,9 +6,18 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-<img src="https://github.com/xiaoyuan31/tech_news/blob/main/Screenshot_2026-03-24-12-57-44-052_com.xiaoyuan.tech_wire.jpg" width="200" heigh="auto" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/xiaoyuan31/tech_news/blob/main/Screenshot_2026-03-24-12-57-44-052_com.xiaoyuan.tech_wire.jpg" width="200" heigh="auto" />
+    </td>
+    <td>
+          <img src="https://github.com/xiaoyuan31/tech_news/blob/main/Screenshot_2026-03-24-12-58-11-631_com.xiaoyuan.tech_wire.jpg" width="200" heigh="auto" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github.com/xiaoyuan31/tech_news/blob/main/Screenshot_2026-03-24-12-58-11-631_com.xiaoyuan.tech_wire.jpg" width="200" heigh="auto" />
+
 
 A few resources to get you started if this is your first Flutter project:
 
