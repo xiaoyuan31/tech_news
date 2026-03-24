@@ -1,4 +1,4 @@
-# tech_wire
+# Tech News
 
 A new Flutter project.
 
